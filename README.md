@@ -5,11 +5,11 @@
 
 </h4>
 
-  ### Olou, tudo bom?! Muito prazer, meu nome é Manzoni (ou Felizone, chama como quiser), e esse é meu espacinho, vem comigo pra me conhecer =)
+  ### Olou, tudo bom?! Muito prazer, meu nome é Manzoni (ou Felizone, chama como quiser), e esse é meu espacinho, vem comigo pra me conhecer 😄
 
   - 🔭 Atualmente sou QA (Analista de Qualidade) na Méliuz!
-  - Sou formado em Ciência da Computação e tenho Mestrado em Eng. de Software e Interação Humano-Computador pela [UFAM](https://icomp.ufam.edu.br/) pesquisando pelo grupo do [USES](http://uses.icomp.ufam.edu.br/)!
-  - Amo projetos de Arduino e Raspberry e criar automações, inclusive, já dei aula sobre Arduino!
+  - 📖 Sou formado em Ciência da Computação e tenho Mestrado em Eng. de Software e Interação Humano-Computador pela [UFAM](https://icomp.ufam.edu.br/) pesquisando pelo grupo do [USES](http://uses.icomp.ufam.edu.br/)!
+  - 💡 Amo projetos de Arduino e Raspberry e criar automações, inclusive, já dei aula sobre Arduino!
   - 🌱 Estudando React & React Native com Typescript
   - 🏹 Tenho o objetivo de espalhar conhecimento de Qualidade pelo mundo!
   - ⚡ Fun fact: os dois amores da minha vida são a pesquisa...e a gastronomia!
@@ -21,7 +21,7 @@
   </a>
 </div>
   
-<div style="display: inline"><br>
+<div style="display: inline-block"><br>
   <a href="https://github.com/FSMLipe">
     <img align="center" alt="manzoni-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="manzoni-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -50,7 +50,7 @@
   ![Snake animation](https://github.com/FSMLipe/FSMLipe/blob/output/github-contribution-grid-snake.svg)
 
   <div align="center">
-    📫 Fala comigo!  
+  <h2>📫 Fala comigo!</h2>  
     <div style="display: inline_block"><br>
       <a href="https://www.facebook.com/felipe.manzoni.90/">
         <img align="center" alt="Link para o facebook do Manzoni" width="40" height="40" src="https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png" />    
