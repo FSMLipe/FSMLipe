@@ -41,13 +41,8 @@
     <img align="center" alt="manzoni-raspi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
     <img align="center" alt="manzoni-confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
     <img align="center" alt="manzoni-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+    <img align="right" alt="Manzoni-pic" height="150" src="https://cdn.discordapp.com/attachments/750835706838122531/920689092088434738/20211215_104926.jpg" data-canonical-src="https://cdn.discordapp.com/attachments/750835706838122531/920689092088434738/20211215_104926.jpg" style="max-width: 100%;" />
   </a>
-
-  <div align="right">
-    <a href="https://github.com/FSMLipe">
-      <img align="right" alt="Manzoni-pic" height="150" src="https://cdn.discordapp.com/attachments/750835706838122531/920689092088434738/20211215_104926.jpg" data-canonical-src="https://cdn.discordapp.com/attachments/750835706838122531/920689092088434738/20211215_104926.jpg" style="max-width: 100%;">
-    </a>
-  </div>
 </div>
 
   ##
