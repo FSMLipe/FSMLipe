@@ -1,57 +1,73 @@
-### Hi there 👋
+<h2 align="center"> Olou, tudo bom? Aqui é o Manzoni 👋 </h3>
 <h4 align="center">
 
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 </h4>
 
-<!--
-**FSMLipe/FSMLipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Olou, tudo bom?! Muito prazer, meu nome é Manzoni (ou Felizone, chama como quiser), e esse é meu espacinho, vem comigo pra me conhecer =)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
-### Olá! eu sou a Bia mais conhecida como engenny! 👋
-
-- 🔭 Desenvolvedora Jr
-- 🌱 Estudando Vue.js
-- 🎨 Pintora/Desenhista há 12 anos
-- 🏹 Futura desenvolvedora frontend UI/UX Pleno. 
+  - 🔭 Atualmente sou QA (Analista de Qualidade) na Méliuz!
+  - Sou formado em Ciência da Computação e tenho Mestrado em Eng. de Software e Interação Humano-Computador pela [UFAM](https://icomp.ufam.edu.br/) pesquisando pelo grupo do [USES](http://uses.icomp.ufam.edu.br/)!
+  - Amo projetos de Arduino e Raspberry e criar automações, inclusive, já dei aula sobre Arduino!
+  - 🌱 Estudando React & React Native com Typescript
+  - 🏹 Tenho o objetivo de espalhar conhecimento de Qualidade pelo mundo!
+  - ⚡ Fun fact: os dois amores da minha vida são a pesquisa...e a gastronomia!
 
 <div align="center">
-  <a href="https://github.com/engenny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engenny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenny&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/FSMLipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FSMLipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSMLipe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="bia-gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  <img align="center" alt="bia-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="bia-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="bia-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img align="center" alt="bia-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" src="https://media.discordapp.net/attachments/814295711968788522/892768045100068905/download20210903103810.png?width=473&height=473" data-canonical-src="https://media.discordapp.net/attachments/814295711968788522/892768045100068905/download20210903103810.png?width=473&height=473" style="max-width: 100%;">
+  <img align="center" alt="manzoni-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="manzoni-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="manzoni-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+  <img align="center" alt="manzoni-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="manzoni-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="manzoni-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="manzoni-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+  <img align="center" alt="manzoni-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  <img align="center" alt="manzoni-apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+  <img align="center" alt="manzoni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="manzoni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="manzoni-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="manzoni-postgrees" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="manzoni-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+  <img align="center" alt="manzoni-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" />
+  <img align="center" alt="manzoni-raspi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/rapberrypi-original.svg" />
+  <img align="center" alt="manzoni-confluence" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+  <img align="center" alt="manzoni-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+
+  <img align="right" alt="Manzoni-pic" height="150" src="https://cdn.discordapp.com/attachments/750835706838122531/920689092088434738/20211215_104926.jpg" data-canonical-src="https://cdn.discordapp.com/attachments/750835706838122531/920689092088434738/20211215_104926.jpg" style="max-width: 100%;">
 </div>
-  
+
   ##
   
-  ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
-  -->
+  ![Snake animation](https://github.com/FSMLipe/FSMLipe/blob/output/github-contribution-grid-snake.svg)
+
+  ### 📫 Fala comigo!
+  <div style="display: inline_block"><br>
+    <a href="https://www.facebook.com/felipe.manzoni.90/">
+      <img align="center" alt="Link para o facebook do Manzoni" width="50" height="50" src="https://brandlogos.net/wp-content/uploads/2021/04/facebook-icon.png" />
+    </a>
+    <a href="https://twitter.com/FSM_Lipe">
+      <img align="center" alt="Link para o twitter do Manzoni" width="50" height="50" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+    </a>
+    <a href="mailto: felipemanzoni3@gmail.com">
+      <img align="center" alt="Link para enviar um e-mail para o e-mail pessoal do Manzoni" width="50" height="50" src="https://www.carlosbarbosa.rs.leg.br/imagens/emailicon.png/image" />
+    </a>
+    <a href="https://www.linkedin.com/in/felipe-sonntag-manzoni/">
+      <img align="center" alt="Link para o LinkedIn do Manzoni" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />
+    </a>
+  </div>
+
+  ### Ficou interessado na minha pesquisa? Dá uma olhada aqui:
+  <div><br>
+    <h3>O que é minha pesquisa?</h3>
+    <h4>Minha pesquisa de Graduação e Mestrado foi focada na área de Engenharia de Software e Interação Humano-Computador voltada para a pesquisa sobre metodologias de avaliação de Jogos Digitais além do desenvolvimento de uma ferrameta para apoio a avaliação da Playability de jogos digitais.</h4>
+    <h4>Se quiser saber mais, olha aqui meus artigos:</h4>
+    <a href="https://www.researchgate.net/publication/324053878_NExPlay_-_Playability_Assessment_for_Non-experts_Evaluators">NExPlay - Playability Assessment for Non-experts Evaluators</a>
+    <a href="https://www.researchgate.net/publication/341473862_Straight_to_the_Point_-_Evaluating_What_Matters_for_You_A_Comparative_Study_on_Playability_Heuristic_Sets">Straight to the Point - Evaluating What Matters for You: A Comparative Study on Playability Heuristic Sets</a>
+  </div>
